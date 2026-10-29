@@ -1,0 +1,7 @@
+"method","treatment","or","lcl","ucl"
+"Frequentist (netmeta)","Group counselling",2.46526229122188,1.10032267473248,5.52339627645882
+"Frequentist (netmeta)","Individual counselling",2.0821604308684,1.35570764579615,3.1978812491893
+"Frequentist (netmeta)","Self-help",1.51624624512355,0.736954341674009,3.1195998799994
+"Bayesian (gemtc/JAGS)","Group counselling",2.9904306182791,1.31107004097323,7.51145869020745
+"Bayesian (gemtc/JAGS)","Individual counselling",2.30800978475956,1.47914042656618,3.7470978219373
+"Bayesian (gemtc/JAGS)","Self-help",1.62546173390007,0.724889401019526,3.66870329297608

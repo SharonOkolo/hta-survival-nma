@@ -1,0 +1,13 @@
+"arm","model","param","est"
+"Obs","weibull","shape",1.08626230268688
+"Obs","weibull","scale",7.92205990331095
+"Obs","lognormal","meanlog",1.69850171448033
+"Obs","lognormal","sdlog",1.25248563949829
+"Obs","loglogistic","shape",1.33688018741515
+"Obs","loglogistic","scale",5.36924998876546
+"Lev+5FU","weibull","shape",0.92225082077292
+"Lev+5FU","weibull","scale",12.9884812847368
+"Lev+5FU","lognormal","meanlog",2.26030318332223
+"Lev+5FU","lognormal","sdlog",1.68160258807444
+"Lev+5FU","loglogistic","shape",1.06222842851488
+"Lev+5FU","loglogistic","scale",8.96021921510937

@@ -1,0 +1,51 @@
+"study","treatment","responders","sampleSize"
+1,"Group counselling",10,138
+1,"Individual counselling",23,140
+1,"No contact",9,140
+2,"Group counselling",29,170
+2,"Individual counselling",12,85
+2,"Self-help",11,78
+3,"Individual counselling",363,714
+3,"No contact",75,731
+4,"Individual counselling",9,205
+4,"No contact",2,106
+5,"Individual counselling",237,1561
+5,"No contact",58,549
+6,"Individual counselling",9,48
+6,"No contact",0,33
+7,"Individual counselling",31,98
+7,"No contact",3,100
+8,"Individual counselling",26,95
+8,"No contact",1,31
+9,"Individual counselling",17,77
+9,"No contact",6,39
+10,"No contact",79,702
+10,"Self-help",77,694
+11,"No contact",18,671
+11,"Self-help",21,535
+12,"Individual counselling",107,761
+12,"No contact",64,642
+13,"Individual counselling",8,90
+13,"No contact",5,62
+14,"Individual counselling",34,237
+14,"No contact",20,234
+15,"Group counselling",9,20
+15,"No contact",0,20
+16,"No contact",8,116
+16,"Self-help",19,149
+17,"Individual counselling",143,1031
+17,"No contact",95,1107
+18,"Individual counselling",36,504
+18,"No contact",15,187
+19,"Individual counselling",73,675
+19,"No contact",78,584
+20,"Individual counselling",54,888
+20,"No contact",69,1177
+21,"Individual counselling",16,43
+21,"Self-help",20,49
+22,"Group counselling",32,127
+22,"Self-help",7,66
+23,"Group counselling",20,74
+23,"Individual counselling",12,76
+24,"Group counselling",3,26
+24,"Individual counselling",9,55

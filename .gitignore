@@ -1,0 +1,6 @@
+__pycache__/
+.pytest_cache/
+.Rhistory
+.RData
+Rplots.pdf
+.DS_Store
