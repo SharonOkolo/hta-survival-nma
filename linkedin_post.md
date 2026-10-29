@@ -22,10 +22,9 @@ benefit across all the options.
 • A subgroup "finding" (bigger benefit in men, p = 0.04) that I reported as hypothesis-generating, not a reason to treat differently
 
 🔗 Code: https://github.com/SharonOkolo/hta-survival-nma
-🔗 App: [Streamlit link]
 
 #Biostatistics #HealthEconomics #HTA #RStats #SurvivalAnalysis #MetaAnalysis #NICE
 
 ---
 **Attach (in this order):** `screenshots/02_extrapolation.png`, `screenshots/01_km.png`, `screenshots/06_nma_forest.png`,
-`screenshots/07_app_survival.png`.
+and `excel/survival_extrapolation_model.xlsx` (screenshot of the Results sheet) if you like.

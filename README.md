@@ -2,8 +2,8 @@
 
 ![tests](https://github.com/SharonOkolo/hta-survival-nma/actions/workflows/tests.yml/badge.svg)
 
-**Live app:** _add your Streamlit link here_ · **Stack:** R (survival, flexsurv, netmeta, gemtc + JAGS/BUGS), testthat,
-Excel model (openpyxl), Streamlit, GitHub Actions
+**Stack:** R (survival, flexsurv, netmeta, gemtc + JAGS/BUGS), testthat, Excel model, GitHub Actions ·
+**Full write-up:** [Project_Report.docx](Project_Report.docx)
 
 Two analyses that sit behind almost every NICE submission, done end to end in R from a pre-written
 [statistical analysis plan](SAP.md):
@@ -98,7 +98,6 @@ Rscript analysis/02_nma.R             # -> outputs/, screenshots/04-06 (about 1 
 Rscript -e 'testthat::test_dir("tests/testthat")'
 pip install -r requirements.txt
 python excel/build_model.py           # -> excel/survival_extrapolation_model.xlsx
-streamlit run app.py
 ```
 
 ## Repo map
