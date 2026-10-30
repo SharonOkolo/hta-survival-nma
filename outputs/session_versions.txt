@@ -1,8 +1,0 @@
-R version 4.5.3 (2026-03-11) 
-survival 3.8.12 
-flexsurv 2.3.2 
-netmeta 3.6.1 
-gemtc 1.1.2 
-rjags 4.17 
-ggplot2 4.0.3 
-testthat 3.3.1 

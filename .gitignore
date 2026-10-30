@@ -1,6 +1,3 @@
-__pycache__/
-.pytest_cache/
+results/
 .Rhistory
-.RData
-Rplots.pdf
 .DS_Store
